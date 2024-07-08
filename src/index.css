@@ -1,0 +1,16 @@
+/* index.css */
+
+/* Additional global styles specific to index.html */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
